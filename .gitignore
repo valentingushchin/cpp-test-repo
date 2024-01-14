@@ -3,6 +3,8 @@ Release/
 x64/
 .vs/
 
+*.doc
+
 *.user
 *.zip
 
